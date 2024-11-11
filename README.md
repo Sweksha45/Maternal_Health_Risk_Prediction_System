@@ -5,6 +5,7 @@ This project aims to develop a robust machine learning model to predict the heal
 Data and Preprocessing
 
 The dataset used for this project contains vital health parameters of pregnant women, including:
+
 Age: Age of the patient
 SystolicBP: Systolic blood pressure
 DiastolicBP: Diastolic blood pressure
@@ -21,6 +22,7 @@ After exploring various machine learning algorithms, Random Forest was chosen du
 Evaluation and Results
 
 The trained Random Forest model is evaluated using a combination of metrics:
+
 Accuracy: 0.8374384236453202
 Precision: 0.844974898171829
 Recall: 0.8398282941396044
@@ -30,6 +32,7 @@ The model achieves impressive results, demonstrating its ability to accurately p
 GitHub Repository
 
 This GitHub repository contains the following:
+
 Colab Notebook: Jupyter Notebook showcasing the data preprocessing, model training, evaluation, and visualization steps.
-Dataset: CSV file containing the maternal health dataset obtained fron UCI Machine Learning Repository.
+Dataset: CSV file containing the maternal health dataset obtained from the UCI Machine Learning Repository.
 By open-sourcing this project, I aim to contribute to the advancement of maternal healthcare and encourage further research and development in this area.
